@@ -10,4 +10,4 @@
     
                          University of Melbourne —— Information Technology (Master)
     
-- **Skill:** JavaScript/html/css, React, React-Native, Node.js, C#, Java, Mysql, Redis and etc.
+- **Skill:** JavaScript/html/css, React, React-Native, Node.js, C#, Java, Python, Mysql and etc.
