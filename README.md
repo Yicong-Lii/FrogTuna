@@ -7,7 +7,7 @@
 -  🧐 **Name:** Yicong Li
 -  ✨ **Age:** 24 
 -  🇨🇳 **hometown:** Beijing,China 
--  📧 **hometown:** leo727268082@gmail.com
+-  📧 **Email:** leo727268082@gmail.com
 -  📖  **Education:** 
         <br />
         1. 🧑‍🎓 **Bachelor** -> The Queensland University of Technology —— Computer Science    
