@@ -6,7 +6,8 @@
 - **Name:** Yicong Li
 - **Age:** 24
 - **hometown:** Beijing
-- **Education:** The Queensland University of Technology —— Computer Science (Bachelor)
+- **Education:** 
+                         The Queensland University of Technology —— Computer Science (Bachelor)
     
                          University of Melbourne —— Information Technology (Master)
     
