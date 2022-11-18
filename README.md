@@ -10,8 +10,9 @@
 -  📧 **Email:** leo727268082@gmail.com
 -  📖  **Education:** 
         <br />
-        1. 🧑‍🎓 **Bachelor** -> The Queensland University of Technology —— Computer Science    
-        2. 🧑‍🎓 **Master**   -> University of Melbourne —— Information Technology 
+        1. 🧑‍🎓 **Bachelor** -> &nbsp;&nbsp;&nbsp; The Queensland University of Technology —— Computer Science    
+        2. 🧑‍🎓 **Master**   -> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;University of Melbourne —— Information Technology 
+        
         
 
 
