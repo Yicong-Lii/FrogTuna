@@ -1,7 +1,6 @@
 ### Hi there 👋  A little about me
 
 ---
-<br />
 
 **Personal information**
 
