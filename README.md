@@ -8,8 +8,8 @@
 - **hometown:** Beijing
 - **Education:**
 - ```
-                        1. The Queensland University of Technology —— Computer Science (Bachelor)
+                        Bachelor --- The Queensland University of Technology —— Computer Science 
     
-                        2. University of Melbourne —— Information Technology (Master)
+                        Master   --- University of Melbourne —— Information Technology 
                         
 - **Skill:** JavaScript/html/css, React, React-Native, Node.js, C#, Java, Python, Mysql and etc.
