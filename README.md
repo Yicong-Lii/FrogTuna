@@ -23,7 +23,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
 ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
-![Vue](https://img.shields.io/badge/-Vue.Js-4FC08D?logo=vue&logoColor=white&style=flat)
+![Vue](https://img.shields.io/badge/-Vue.Js-4FC08D?logo=vue.js&logoColor=white&style=flat)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=Express&logoColor=white&style=flat)
 ![C#](https://img.shields.io/badge/-CSharp-99CC00?logo=sharp&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
