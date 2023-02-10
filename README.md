@@ -31,7 +31,7 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=MySQL&logoColor=white&style=flat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogTuna&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 <h4>Visited Count:</h4> 
 <br>
