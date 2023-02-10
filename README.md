@@ -32,8 +32,8 @@
 
 
 ---
-**Visited:**   
-
+**Visited Count:**   
+<br>
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/FrogTuna/count.svg" />
 </p>
