@@ -34,4 +34,4 @@
 ---
 **Visited:**   
 
-<p style="text-align: center;">![Visitor Count](https://profile-counter.glitch.me/{FrogTuna}/count.svg)</p>
+<div style="text-align: center;">![Visitor Count](https://profile-counter.glitch.me/{FrogTuna}/count.svg)</div>
