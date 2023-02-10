@@ -17,7 +17,7 @@
 
 
 ---
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)
