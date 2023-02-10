@@ -2,7 +2,7 @@
 
 ---
 
-<h4>Personal information</h4>
+<h4>Personal information:</h4>
 
 -  🧐 **Name:** Yicong Li
 -  ✨ **Age:** 24 
