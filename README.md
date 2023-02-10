@@ -28,3 +28,10 @@
 ![C#](https://img.shields.io/badge/-CSharp-99CC00?logo=sharp&logoColor=white&style=flat)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=flat)
 ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=MySQL&logoColor=white&style=flat)
+
+
+
+---
+**Visited:**   
+
+![Visitor Count](https://profile-counter.glitch.me/{FrogTuna}/count.svg)
