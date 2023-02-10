@@ -19,7 +19,7 @@
 ---
 <h4>Skill:</h4>
 <br>
-
+<div align="center">
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=HTML5&logoColor=white&style=flat)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=CSS3&logoColor=white&style=flat)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
@@ -31,6 +31,7 @@
 ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?logo=MySQL&logoColor=white&style=flat)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogTuna&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 ---
 <h4>Visited Count:</h4> 
 <br>
