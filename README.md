@@ -6,7 +6,7 @@
 
 -  🧐 **Name:** Yicong Li
 -  ✨ **Age:** 24 
--  🇨🇳 **hometown:** Beijing,China 
+-  🇨🇳 **hometown:** Beijing, China 
 -  📧 **Email:** leo727268082@gmail.com
 -  📖  **Education:** 
         <br />
